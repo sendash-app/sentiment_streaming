@@ -1,0 +1,5 @@
+unidecode
+textblob
+vaderSentiment
+sqlite3
+tweepy
